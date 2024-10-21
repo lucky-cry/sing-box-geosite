@@ -1,4 +1,16 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_suffix": [
+        "api.telegram.org",
+        "docker.com",
+        "docker.io",
+        "fsm.name",
+        "mypikpak.com",
+        "registry.hub.docker.com",
+        "steamcommunity.com"
+      ]
+    }
+  ],
   "version": 2
 }
