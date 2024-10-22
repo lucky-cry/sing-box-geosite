@@ -1,6 +1,16 @@
 {
   "rules": [
     {
+      "domain_keyword": [
+        "steamcommunity",
+        "steampowered",
+        "steamserver",
+        "steamstatic",
+        "steamtools",
+        "steamuserimages"
+      ]
+    },
+    {
       "domain_suffix": [
         "0ff.cc",
         "audiences.me",
@@ -28,7 +38,7 @@
         "pterclub.com",
         "soulvoice.club",
         "todesk.com",
-        "ubits.clu",
+        "ubits.club",
         "zmpt.cc"
       ]
     }
