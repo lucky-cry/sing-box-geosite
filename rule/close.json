@@ -1,0 +1,42 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "0ff.cc",
+        "audiences.me",
+        "bbs.steamtools.net",
+        "cinefiles.info",
+        "connects.icu",
+        "creditracker.net",
+        "czhch.com",
+        "discfan.net",
+        "discfan.xyz",
+        "hdatmos.club",
+        "hddolby.com",
+        "hdtime.org",
+        "hhan.club",
+        "hhan.top",
+        "hhanclub.top",
+        "icc2022.com",
+        "icc2022.de",
+        "icc2022.xyz",
+        "ilolicon.cc",
+        "ilolicon.com",
+        "m-team.cc",
+        "m-team.io",
+        "nextpt.ne",
+        "nicept.net",
+        "oshen.win",
+        "pt.0ff.cc",
+        "ptchina.org",
+        "pterclub.com",
+        "soulvoice.club",
+        "testipv6.cn",
+        "todesk.com",
+        "ubits.club",
+        "zmpt.cc"
+      ]
+    }
+  ],
+  "version": 2
+}
