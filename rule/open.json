@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "docker.com",
+        "docker.io",
+        "fsm.name",
+        "manifest.steam.run",
+        "mypikpak.com",
+        "nexus-cdn.com",
+        "registry.hub.docker.com",
+        "steamcommunity.com"
+      ]
+    }
+  ],
+  "version": 2
+}
